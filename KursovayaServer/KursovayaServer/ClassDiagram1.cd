@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KursovayaServer.Controllers.AutodealerController" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="9.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABIAAQAAAAAgCQACAAAAAAAAAAEAAAACACAAMACECAA=</HashCode>
+      <FileName>Controllers\AutodealerController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KursovayaServer.Controllers.CarController" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="9.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAkBAAAAAQBCAAgAUIIGGgkxEAICAAAAIADEgCA=</HashCode>
+      <FileName>Controllers\CarController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KursovayaServer.Controllers.DealsController" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAEICQACAAAAAAgAAAEAEAACgAAAIACEAAA=</HashCode>
+      <FileName>Controllers\DealsController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KursovayaServer.Controllers.StatisticsController" BaseTypeListCollapsed="true">
+    <Position X="5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAQgCABAAAAAAAAEAAAECAAAAKACEAAA=</HashCode>
+      <FileName>Controllers\StatisticsController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KursovayaServer.Controllers.UserController" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAIAAhAAAMAKCSACABKAAAAAAAEBCAACAAAAKADEAAA=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KursovayaServer.Listener">
+    <Position X="8" Y="2" Width="2" />
+    <NestedTypes>
+      <Delegate Name="KursovayaServer.Listener.ClientDisconnected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Listener.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="KursovayaServer.Listener.ClientConnected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Listener.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAEAABAAgEAEAAAAAAAAIAAAIAACAAAAACCA=</HashCode>
+      <FileName>Listener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovayaServer.Session">
+    <Position X="13.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAECAAIAAAAAAAACAoAABACEAAQ=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="KursovayaServer.Controllers.IController">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAQACAAAAAAAAAAEAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Controllers\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\Kursovaya\ServerUtilities\bin\Debug\ServerUtilities.dll
+D:\Visual Studio Projects\Kursovaya\ServerUtilities\bin\Debug\ServerUtilities.pdb
+D:\Visual Studio Projects\Kursovaya\ServerUtilities\obj\Debug\ServerUtilities.dll
+D:\Visual Studio Projects\Kursovaya\ServerUtilities\obj\Debug\ServerUtilities.pdb
+D:\Visual Studio Projects\Kursovaya\ServerUtilities\obj\Debug\ServerUtilities.csprojAssemblyReference.cache
